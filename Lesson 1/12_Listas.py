@@ -70,3 +70,6 @@ print(otros_animales[:3])
 print(otros_animales[2:])
 print(otros_animales[1][4][1:4])
 print(otros_animales[1][-1])
+print(otros_animales)
+otros_animales[1][0] = 'Pez'
+print(otros_animales)
