@@ -104,3 +104,12 @@ class Bank:
 
 bank1 = Bank()
 bank1.iniciar_operaciones()
+
+# 5! factorial de 5 : 5*4*3*2*1
+
+# numero = int(input('¿Ingrese el numero a factorizar?: '))
+# fac = 1
+# for i in range(1, numero + 1):
+#     fac = fac * i
+# print(fac)
+

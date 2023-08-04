@@ -21,4 +21,8 @@ tupla = tuple(nueva)
 print(tupla)
 print(type(tupla))
 
-print(tupla.index('Caballa',2))
+print(tupla.index('Caballa', 2))
+
+# tuplesol = (5,)
+# print(tuplesol)
+# print(type(tuplesol))
